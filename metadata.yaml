@@ -1,0 +1,38 @@
+_repo: Blue-Bonnet-s-Ranch-Party_21960
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: archival
+  image_path: 21960-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Read, Edyth Ellerbeck
+    gutenberg_agent_id: '24995'
+    url: http://www.gutenberg.org/2009/agents/24995
+  - agent_name: Jacobs, Caroline Elliott Hoogs
+    birthdate: 1835
+    deathdate: 1916
+    gutenberg_agent_id: '6124'
+    url: http://www.gutenberg.org/2009/agents/6124
+description: ''
+gutenberg_issued: '2007-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21960'
+  lccn: '12016851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Texas -- Juvenile fiction'
+title: Blue Bonnet's Ranch Party
+url: http://www.gutenberg.org/ebooks/21960
